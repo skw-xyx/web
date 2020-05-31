@@ -80,13 +80,6 @@ body{
 	left: 0px;
 	width: 100%;
 }
-.banner-one{
-	background: url('picture/first.png') no-repeat center center;
-}
-.banner-two{
-	background: url("picture/banner2.png") no-repeat  center center;
-}
-
 .form{
 	float: right;
 	margin-top: 31px;
